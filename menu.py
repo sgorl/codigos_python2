@@ -1,3 +1,5 @@
+import agenda
+
 def main():
     while True:
         print("\nContact Agenda System")
@@ -32,5 +34,3 @@ def main():
         else:
             print("Invalid choice. Please enter a valid option.")
 
-if _name_ == "_main_":
-    main()
